@@ -1,0 +1,20 @@
+{
+
+    "eslint.workingDirecories": [
+
+        {
+            "mode": "auto"
+        }
+    ],
+    "eslint.validade": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact"
+    ],
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+
+    }
+
+}
